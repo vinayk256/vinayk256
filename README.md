@@ -41,9 +41,9 @@ Techno-Functional Consultant | SQL Developer | ERP & Supply Chain Enthusiast | .
 ## 📈 Current Learning Roadmap
 
 - 🔄 Advanced SQL · Power BI · Power Query · DAX
-- ↗️ Data Warehousing · Python · Pandas · Automation
-- ↗️ Domain depth · Forecasting · APICS CSCP
-- ↗️ Azure · Microsoft Fabric · Data Factory
+- 🔄 Data Warehousing · Python · Pandas · Automation
+- 🔄 Domain depth · Forecasting · APICS CSCP
+- 🔄 Azure · Microsoft Fabric · Data Factory
 - 🔄 LLM · Prompt Eng · RAG · LangGraph · SCM Agents
 - ♾️ Communication · Solution Design · Agile · Delivery
 
